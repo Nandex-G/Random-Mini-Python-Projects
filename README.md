@@ -9,7 +9,8 @@
 - [HangMan](https://www.geeksforgeeks.org/python/hangman-game-python)
 - [Rock Paper Scissors](https://www.geeksforgeeks.org/python/python-program-implement-rock-paper-scissor-game/)
 - [Number Guessing Game](https://www.geeksforgeeks.org/python/number-guessing-game-in-python/)
-- [Word Guessing Game](https://www.geeksforgeeks.org/python/python-program-for-word-guessing-game/) **( Not Finished Yet )**
+- [Voice Recorder V1.0](https://www.geeksforgeeks.org/python/create-a-voice-recorder-using-python/) 
+- [Voice Recorder V2.0](https://www.tutorialspoint.com/python/create_a_voice_recorder.htm) **( Working on it )**
 
 #### Advanced Projects:
 
@@ -17,6 +18,5 @@
 
 ## Future Projects
 
-- [Compare Two PDFs](https://www.geeksforgeeks.org/python/check-if-two-pdf-documents-are-identical-with-python/)
 - [Convert Emoji into Text](https://www.geeksforgeeks.org/python/convert-emoji-into-text-in-python/)
-- [Voice Recorder](https://www.geeksforgeeks.org/python/create-a-voice-recorder-using-python/)
+- [Mastermind Game](https://www.geeksforgeeks.org/python/mastermind-game-using-python/)
