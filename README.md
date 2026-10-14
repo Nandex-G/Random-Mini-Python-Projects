@@ -17,6 +17,10 @@
 
 - I'll work on them when beginner projects are finished.
 
+#### Random handmade Projects:
+
+- NanTheGod
+
 ## Future Projects
 
 - [Convert Emoji into Text](https://www.geeksforgeeks.org/python/convert-emoji-into-text-in-python/)
