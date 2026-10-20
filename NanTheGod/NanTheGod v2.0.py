@@ -3,21 +3,22 @@ import pygetwindow as gw
 import os
 import subprocess
 import time
+import cv2
 
 pag.FAILSAFE = False
 
 TIMEOUT = 30
 
-win_search_box_fp = "./images/win_search_box.png"
-discord_icon_fp = "./images/discord_icon.png"
-discord_icon_selected_fp = "./images/discord_icon_selected.png"
-friends_list_fp = "./images/friends_list.png"
-all_icon_fp = "./images/all_icon.png"
-discord_search_box_fp = "./images/discord_search_box.png"
-message_box_fp = "./images/message_box.png"
+win_search_box_fp = "images/win_search_box.png"
+discord_icon_fp = "images/discord_icon.png"
+discord_icon_selected_fp = "images/discord_icon_selected.png"
+friends_list_fp = "images/friends_list.png"
+all_icon_fp = "images/all_icon.png"
+discord_search_box_fp = "images/discord_search_box.png"
+message_box_fp = "images/message_box.png"
 
-nandex_user_offline_fp = "./images/nandex_user_offline.png"
-nandex_user_online_fp = "./images/nandex_user_online.png"
+nandex_user_offline_fp = "images/nandex_user_offline.png"
+nandex_user_online_fp = "images/nandex_user_online.png"
 
 
 def find_location(image_path, timeout= 30):
