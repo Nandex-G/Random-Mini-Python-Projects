@@ -19,7 +19,8 @@
 
 #### Random handmade Projects:
 
-- NanTheGod
+- NanTheGod v1.0
+- NanTheGod v2.0
 
 ## Future Projects
 
