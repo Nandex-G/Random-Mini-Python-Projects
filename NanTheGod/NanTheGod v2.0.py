@@ -3,7 +3,6 @@ import pygetwindow as gw
 import os
 import subprocess
 import time
-import cv2
 
 pag.FAILSAFE = False
 
