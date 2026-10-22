@@ -12,6 +12,7 @@
 - [Voice Recorder V1.0](https://www.geeksforgeeks.org/python/create-a-voice-recorder-using-python/) 
 - [Voice Recorder V2.0](https://www.tutorialspoint.com/python/create_a_voice_recorder.htm)
 - [Video Recorder V1.0](https://www.geeksforgeeks.org/python/create-a-screen-recorder-using-python/)
+- [2048 Game](https://www.geeksforgeeks.org/python/2048-game-in-python/)
 
 #### Advanced Projects:
 
